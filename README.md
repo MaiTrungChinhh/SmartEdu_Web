@@ -8,8 +8,8 @@ Giao diện người dùng (Frontend) cho hệ thống **SmartEdu** – một n�
 ## 🚀 Công nghệ sử dụng
 
 - ⚛️ React 19 + TypeScript
-- ⚡ Vite (dev server nhanh & nhẹ)
-- 💨 Tailwind CSS (tiện lợi khi thiết kế UI)
+- ⚡ Vite
+- 💨 Tailwind CSS
 - 🌀 PostCSS + Autoprefixer
 
 ---
